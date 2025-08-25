@@ -1,1 +1,1 @@
-Welcome! This is only a tste.
+Welcome! This is only a test.
